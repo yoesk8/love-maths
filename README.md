@@ -1,8 +1,8 @@
 # Love Maths
 
-The love maths site was created as part of a walk through for the JavaScript module in the Code Institutes Diploma in Full Stack Web Development. 
+The love maths site was created as part of a walk through for the JavaScript module in the Code Institute Diploma in Full Stack Web Development. 
 
-
+[Am I responsive](assets/images/lovemaths-responsive.png)
 
 [Visit the deployed site](https://yoesk8.github.io/love-maths/)
 
@@ -60,7 +60,7 @@ The love maths site was created as part of a walk through for the JavaScript mod
 
 The colour scheme for the site was kept very simple, using four colours for the buttons and a grey background for the games container.
 
-![Love Maths Colour Palette](documentation/lovemaths-colour.png)
+![Love Maths Colour Palette](assets/images/lovemaths-colour.png)
 
 
 ### Typography
@@ -71,7 +71,7 @@ The raleway font has been used for the site, with a back-up of sans-serif.
 
 Wireframes were created for mobile, tablet and desktop using basalmiq.
 
-![Love Maths Wireframes](documentation/lovemathswireframe.png)
+![Love Maths Wireframes](assets/images/lovemathswireframe.png)
 
 ### Features
 
@@ -79,7 +79,7 @@ Love maths is comprised of one page which holds the game container.
 
 * Future Implementations.
 
-In a future implementation I would like to add some instructions on how to play the game, possibly via a modal. I would also like to look into adding a countdown timer to add an extra element of difficulty to the game.
+In a future implementation I would like to add some instructions on how to play the game. I would also like to look into a an extra element of difficulty to the game by letting the user choose how hard he wants the questions to be.
 
 ### Accessibility
 
@@ -163,9 +163,6 @@ Testing was ongoing throughout the entire build. I utilised Chrome developer too
 
 The W3C validator was used to validate the HTML. It was also used to validate CSS in the style.css file. Both files passed validation with no errors.
 
-* [index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkera-cudmore.github.io%2Flove-maths%2F)
-* [style.css](documentation/love-maths-css.png)
-
 ### Jshint JavaScript Validator
 
 JShint was used to validate the JavaScript.
@@ -181,6 +178,8 @@ JShint was used to validate the JavaScript.
 ### Lighthouse
 
 I used Lighthouse within the Chrome Developer Tools to allow me to test the performance, accessibility, best practices and SEO of the website.
+
+[Lighthouse Testing](assets/images/lovemaths-lighthouse.png)
 
 ### Full Testing
 
