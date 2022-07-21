@@ -2,7 +2,7 @@
 
 The love maths site was created as part of a walk through for the JavaScript module in the Code Institute Diploma in Full Stack Web Development. 
 
-[Am I responsive](assets/images/lovemaths-responsive.png)
+![Am I responsive](assets/images/lovemaths-responsive.png)
 
 [Visit the deployed site](https://yoesk8.github.io/love-maths/)
 
